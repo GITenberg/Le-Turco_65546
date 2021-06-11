@@ -1,5 +1,8 @@
 _repo: Le-Turco_65546
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65546-h/images/cover.jpg
 creator:
   author:
     agent_name: About, Edmond
@@ -18,6 +21,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Edmond_About
     - https://en.wikipedia.org/wiki/Edmond_François_Valentin_About
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65546#Le-Turco
 gutenberg_issued: '2021-06-07'
 gutenberg_type: Text
 identifiers:
